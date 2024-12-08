@@ -39,7 +39,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: #5f2c82 url(../imagens/pexels-mikhail-nilov-8542567.jpg) no-repeat;
+    background: #5f2c82 url(../imagens/back-phone.jpg) no-repeat;
     background-size: cover;
     background-position: bottom;
     height: 200px;
